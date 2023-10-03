@@ -5,4 +5,13 @@
    border-color: black; */
     /* shorthand > vários valores na mesma propiedade */
    border: 5px solid black;
+   width: 100px;
+}
+.imagem_width{
+    width: 500px;
+}
+.caixa_height{
+    border: 5px dashed yellow;
+    height: 50px;
+    width: 50px;
 }
